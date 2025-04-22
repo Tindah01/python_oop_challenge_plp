@@ -2,7 +2,6 @@ from pet import Pet
 
 def main():
     my_pet = Pet("Max")
-    
     my_pet.eat()
     my_pet.play()
     my_pet.sleep()
